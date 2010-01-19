@@ -1,0 +1,8 @@
+CluePlayer
+
+CluePlayer is a text-based player for the popular board game, Clue. 
+CluePlayer monitors the state of the game at all times and automatically
+eliminates potential suspects, weapons, and rooms and provides suggested questions
+to ask other players on your turn.
+
+Simply call clue. to run!
